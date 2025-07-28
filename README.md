@@ -33,3 +33,4 @@ Edit
 ![alt text](image.png)
 
 ## Live Demo
+[Click here to try the Calorie Calculator](https://sarahborgelt.github.io/calorie-calculator/)

@@ -1,36 +1,53 @@
-# Calorie Calculator 🥗🔥
+# 🥗🔥 Calorie Calculator
+A **simple Calorie Calculator** built with HTML, CSS, and JavaScript. 
 
-This is a simple calorie calculator built using HTML, CSS, and JavaScript. It allows users to enter their meals and exercises to determine their net calories and whether they are in a surplus or deficit.
+## 📌 Overview
+Users can enter their meals and exercises to calculate **net calories** and determine whether they are in a **surplus or deficit**, helping track daily energy intake.
 
-## Features
-- Input calories for breakfast, lunch, dinner, snacks, and exercise
-- Calculates net calories
-- Displays whether you're in a **Surplus** or **Deficit**
-- Basic input validation
+![Screenshot](image.png)
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- DOM manipulation
+---
 
-## How to Run
-1. Clone this repo:
-git clone https://github.com/YOUR_USERNAME/calorie-calculator.git
+## 🛠 Problems Solved / Why This Matters
 
-markdown
-Copy
-Edit
-2. Open `index.html` in your browser.
+- 🥘 Helps users track daily caloric intake easily
 
-## What I Learned
-- Working with forms and input validation
-- DOM manipulation
-- Using the ternary operator and conditionals
-- Basic front-end JavaScript logic
+- ⚡ Provides instant feedback on energy surplus/deficit
 
-## Screenshots
-![alt text](image.png)
+- 💻 Demonstrates front-end skills like form handling, validation, and DOM updates
 
-## Live Demo
-[Click here to try the Calorie Calculator](https://sarahborgelt.github.io/CalorieCalculator/)
+- 🔄 Shows practical use of JavaScript logic and conditionals
+
+## 🚀 Features
+
+- Input calories for **breakfast, lunch, dinner, snacks, and exercise**  
+- Calculates **net calories**  
+- Displays whether the user is in a **Surplus** or **Deficit**  
+- Basic **input validation**  
+
+---
+
+## 📂 Technologies Used
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **DOM manipulation**
+
+---
+
+## 📦 How to Run
+1. Click on the "Try it here" button below to open the live demo.
+
+     **Live Demo:** [Try it here](https://sarahborgelt.github.io/CalorieCalculator/)  
+     **Source Code:** [GitHub Repository](https://github.com/sarahborgelt/calorie-calculator)
+
+
+
+## 🧠 Lessons Learned
+
+- Working with HTML forms and input validation
+
+- DOM manipulation and updating content dynamically
+
+- Building a functional, interactive front-end application

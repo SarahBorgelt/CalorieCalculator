@@ -1,5 +1,5 @@
 # 🥗🔥 Calorie Calculator
-A simple Calorie Calculator built with HTML, CSS, and JavaScript. 
+***A lightweight, beginner-friendly calorie tracking tool built to practice JavaScript fundamentals and real-time UI updates.***
 
 ![Screenshot](image.png)
 

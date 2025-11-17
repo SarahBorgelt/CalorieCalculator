@@ -48,10 +48,10 @@ This project is ideal for anyone looking to practice JavaScript fundamentals whi
 ---
 
 ## 📦 How to Run
-1. Click on the "Try it here" button below to open the live demo.
+Click on the "Try it here" button below to open the live demo.
 
-     **Live Demo:** [Try it here](https://sarahborgelt.github.io/CalorieCalculator/)  
-     **Source Code:** [GitHub Repository](https://github.com/sarahborgelt/calorie-calculator)
+- **Live Demo:** [Try it here](https://sarahborgelt.github.io/CalorieCalculator/)  
+- **Source Code:** [GitHub Repository](https://github.com/sarahborgelt/calorie-calculator)
 
 
 

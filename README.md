@@ -1,6 +1,8 @@
 # 🥗🔥 Calorie Calculator
 A simple Calorie Calculator built with HTML, CSS, and JavaScript. 
 
+![Screenshot](image.png)
+
 ## 📌 Overview
 The Calorie Calculator is a simple, interactive web application that allows users to enter their meals and exercises to calculate net calories and determine whether they are in a caloric surplus or deficit. This tool is designed to help users track their daily energy intake and make more informed decisions about their diet and fitness goals.
 
@@ -13,9 +15,6 @@ Beyond its practical functionality, this project demonstrates core front-end dev
 - Conditional logic and real-time calculations to provide immediate feedback
 
 This project is ideal for anyone looking to practice JavaScript fundamentals while building a small but meaningful web application that solves a real-world problem in a clear and user-friendly way.
-
-
-![Screenshot](image.png)
 
 ---
 
